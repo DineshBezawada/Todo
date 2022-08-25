@@ -13,9 +13,9 @@ function App() {
 
   return (
     <div>
-      {/* <TodoList/>
-    <TodoTlg /> */}
-    <Context />
+      <TodoList/>
+    <TodoTlg />
+    {/* <Context /> */}
 {/* 
       <UserContext.Provider value={name}>
         <Context  />
