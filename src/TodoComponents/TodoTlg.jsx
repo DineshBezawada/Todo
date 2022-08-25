@@ -30,6 +30,7 @@ const TodoTlg = () => {
         <div className="card">
           <div className="card-body">
             <h2 className="card-title">Todo APP</h2>
+            <h3>Todo delete</h3>
 
             <form action="#" onSubmit={submitHandler} autoComplete='off' ref={form}>
               <input
